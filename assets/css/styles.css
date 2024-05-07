@@ -1,7 +1,6 @@
 *, *::before, *::after {
     box-sizing: border-box;
 }
-
 body {
     background-color: #b1c2ba;
     font-family: sans-serif;
